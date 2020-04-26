@@ -10,7 +10,7 @@ If you focus on the button via mouse, you won't see a focus outline. If you inte
 
 ## Usage
 
-1. `$npm install` in both /tester-project and /smart-focus-ring
+1. `$ npm install` in both /tester-project and /smart-focus-ring
 2.  `$ npm install -g parcel-bundler` to install parcel globally
 3. In /tester-project, import smart-focus-ring either:
     1. Locally  
