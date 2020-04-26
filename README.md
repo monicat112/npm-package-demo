@@ -1,10 +1,12 @@
 # NPM Package Demo
 
-This is a companion project for [Build & publish your own private npm package for free](#) (url tbd).
+This is a companion project for [Build & publish your own private npm package for free](https://dev.to/mocasalter/build-publish-your-own-private-npm-package-for-free-47ol).
+
+## Example
 
 If you focus on the button via mouse, you won't see a focus outline. If you interact via keyboard, you will. 🎉
 
-<img src="://imgur.com/8zVT8We" alt="Button Outline Demo" style="outline: 2px solid #c7bfc9" />
+<img src="http://i.imgur.com/8zVT8We.gif" alt="Button Outline Demo" style="outline: 2px solid #c7bfc9" />
 
 ## Usage
 
